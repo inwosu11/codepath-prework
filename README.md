@@ -21,9 +21,9 @@ The following **required** functionality is completed:
 <!--[Guide]](https://www.youtube.com/watch?v=GA92eKlYio4) .-->
 
 ## App Brainstorming (Step 4)
-** Favorite 5 applications**
+**Favorite 5 applications**
 - Youtube
-
+    - dfsdf
 - Maps
 - Doordash
 - Messages
