@@ -23,11 +23,22 @@ The following **required** functionality is completed:
 ## App Brainstorming (Step 4)
 **Favorite 5 applications**
 - Youtube
-    - dfsdf
+    - i love the shorts function that there are so many videos on a cue just lined up ready to go
+    - I love that you can watch most videos outside of the app 
 - Maps
+    - I like that i can save my favorite locations 
+    - I love that i dont have to type too many characters or numbers and it is already populating different addresses
 - Doordash
+    - I like that it can give me orders knowing that i am the nearest dasher around to pick it up
+    - I like the way that it creates a heat map of which restaurant or area has the most orders
 - Messages
+    -  I like that i can pin my most important conversations
+    - I like that my messages never disappear
 - Google
+    - search functionality
+    - I like the hum feature that can basically guess the song you are humming
+**App I'd like to build** 
+- I'd like to build a Igbo language app that can help individuals that originate from that heritage learn their language. I would like for the app to have different forms of spaced repetition techniques built in and active recall functions. Also i would like to gamifiy the app. 
 ## Notes
 
 Describe any challenges encountered while building the app.
