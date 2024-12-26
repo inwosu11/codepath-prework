@@ -1,26 +1,33 @@
-# Prework - *Name of App Here*
+# Prework - *IOS Prework Ike Nwosu*
 
-Submitted by: **Your Name Here**
+Submitted by: **Ikechukwu Nwosu**
 
-**Name of your app** is an app that... [TODO] 
+**IOS Prework Ike Nwosu** is an app that... [displays an image of my self with 3 labels depicting my bio including my name, university, and job title respectively. also contains a button that randomly changes the color of the background and the text on the screen per click of the button.] 
 
-Time spent: **X** hours spent in total
+Time spent: **3** hours spent in total
+Submitted by: Ikechukwu Nwosu
 
 ## Required Features
 
 The following **required** functionality is completed:
 
-- [ ] Users are see a screen with three labels and a button
-- [ ] Tapping the button changes the screen color to a random color
+- [x] Users are see a screen with three labels and a button
+- [x] Tapping the button changes the screen color to a random color
  
-## Video Walkthrough
-
-Here is a reminder on how to embed Loom videos on GitHub. Feel free to remove this reminder once you upload your README. 
-
-[Guide]](https://www.youtube.com/watch?v=GA92eKlYio4) .
+<!--## Video Walkthrough-->
+<!---->
+<!--Here is a reminder on how to embed Loom videos on GitHub. Feel free to remove this reminder once you upload your README. -->
+<!---->
+<!--[Guide]](https://www.youtube.com/watch?v=GA92eKlYio4) .-->
 
 ## App Brainstorming (Step 4)
+** Favorite 5 applications**
+- Youtube
 
+- Maps
+- Doordash
+- Messages
+- Google
 ## Notes
 
 Describe any challenges encountered while building the app.
