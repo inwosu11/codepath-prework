@@ -20,7 +20,7 @@ The following **required** functionality is completed:
 
 [Guide]![](https://imgur.com/a/1n6aAUC) 
 [Guide](https://imgur.com/a/1n6aAUC.gif) ![](https://imgur.com/a/1n6aAUC.gif)
-![Guide](https://imgur.com/a/1n6aAUC.gif)
+![Guide](https://imgur.com/a/1n6aAUC)
 
 ## App Brainstorming (Step 4)
 **Favorite 5 applications**
